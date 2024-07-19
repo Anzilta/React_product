@@ -35,7 +35,7 @@ const DataCard = () => {
         </div>
         <div className='para'>
             <b>{data.catagory}</b>
-        <b>Rs-{data.Price}</b>
+        <b>Rs-{data.price}</b>
         
         </div>
         </div>
